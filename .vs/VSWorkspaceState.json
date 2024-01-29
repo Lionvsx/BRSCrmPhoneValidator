@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhoneNumberValidator",
+    "\\PhoneNumberValidator\\components",
+    "\\PhoneNumberValidator\\countries"
+  ],
+  "SelectedNode": "\\PhoneNumberValidator\\components\\PhoneTextField.tsx",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HR8xMxsUdj5gcREefbaPLrtRDHXJ4/NJhDIv44vdTCP1HeEC18B8ot/Q7aoikqtbFzMB7MPeHs85h87qmbDSlg==",
+  "success": true,
+  "projectFilePath": "C:\\Clients\\BRS\\PCF\\PhoneNumber\\PhoneNumberValidator\\PhoneNumberValidator\\PhoneNumberValidator.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qjacquemet\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\qjacquemet\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\qjacquemet\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.24.3\\microsoft.powerapps.msbuild.pcf.1.24.3.nupkg.sha512"
+  ],
+  "logs": []
+}
